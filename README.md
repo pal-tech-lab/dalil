@@ -3,7 +3,7 @@
 Dalil is a local discovery and navigation platform developed by Pal Tech Lab.
 
 ## Current Build
-Build: B17
+Build: B18
 
 ## Status
-Preparing for technical check-in.
+Post-demo improvements in progress.
